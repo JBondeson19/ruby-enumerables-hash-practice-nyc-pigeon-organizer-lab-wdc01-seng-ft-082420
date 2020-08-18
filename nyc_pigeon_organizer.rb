@@ -6,10 +6,10 @@ def nyc_pigeon_organizer(data)
 
     value.each do|inner_key, names|
       binding.pry
-      
+
     end
     final_array
-    
+
   end
 
 end
